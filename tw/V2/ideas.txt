@@ -1,0 +1,23 @@
+farmer
+    every click iteration wait 0.2 find recaptcha
+
+trader trade
+    trading limit
+    resourses reserved
+    sell_value
+    buy_value
+    track prices
+
+balance graph
+    pp points
+    resourses
+
+notifier
+
+message if alltime/ weekly/ daily - lowest/ highest
+
+gui
+    target list
+        custom units
+    on/ off options
+    schedule

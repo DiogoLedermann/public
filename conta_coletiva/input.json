@@ -1,0 +1,13 @@
+{
+    "Participants": [
+        "Alex",
+        "Bob",
+        "Carl"
+    ],
+
+    "Products": [
+        ["Pizza", 30],
+        ["Soda", 15],
+        ["Chocolate", 10]
+    ]
+}

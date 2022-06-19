@@ -1,0 +1,17 @@
+trader trade
+    trading limit
+    resourses reserved
+    sell_value
+    buy_value
+    
+balance graph
+    pp points
+    resourses
+
+message exact current prices
+message if alltime/ weekly/ daily - lowest/ highest
+
+gui
+    target list
+        custom units
+    on/ off options
